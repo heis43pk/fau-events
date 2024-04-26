@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132336174908",
+    "project_id": "event-cffad",
+    "storage_bucket": "event-cffad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132336174908:android:e1b50a8f8c3470e7a38039",
+        "android_client_info": {
+          "package_name": "com.event"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEjvo4doF9RZ3Y0-lHYg4dGJfUZSPOZxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

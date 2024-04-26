@@ -1,0 +1,36 @@
+{
+    "collectionName": "demo",
+    "documentName": "details",
+    "data": {
+        "admins": [],
+        "events": [
+            {
+                "title": "Sunshine State Classic Step Show",
+                "id": "sunshine_state_classic_step_show",
+                "slots": ["2024-04-20T19:00:00-04:00"],
+                "description": "Get ready for a whirlwind of culture and excitement with our 27th Annual Sunshine State Classic Step Show! The National Pan-Hellenic Council will amaze you with synchronized moves and infectious energy. It's not just a show – it's a celebration of culture, history, and creativity; blending traditional routines with contemporary flair. Join us for an unforgettable experience that'll have you cheering, clapping, and tapping your feet from start to finish!",
+                "image": "https://cdn-university.azureedge.net/fauevents/uploads/Redactor/1/image/rDRU1uur1LqxeIM8D1XOSX3oi8f9vLCKz68IAsaGHRg=.jpeg",
+                "venue": "Carole and Barry Kaye Auditorium",
+                "date": "2024-04-20",
+                "time": "19:00",
+                "timezone": "ET",
+                "additionalInfo": "Please note upon checkout, additional convenience & ticket processing fees may apply. A service charge of $2 applies to all in-person and over-the-phone orders. (excluding all FAU Students) ALL SALES ARE FINAL. NO REFUNDS. NO EXCHANGES. NO CASH SALES. Seating after the start of any performance is at the discretion of the House Manager; there is no guarantee that late seating will be permitted.",
+                "location": "FAU Carole and Barry Kaye Performing Arts Auditori Boca Raton, FL 33431"
+            },
+            {
+                "title": "Sayat Nova Dance Company Performance",
+                "id": "sayat_nova_dance_company_performance",
+                "slots": ["2024-04-27T19:00:00-04:00"],
+                "description": "",
+                "image": "https://cdn-university.azureedge.net/fauevents/uploads/Redactor/1/image/Ap1tcZnrX5NxzfIP295qc39LDG-g1thiXbvKbRI4VHQ=.jpeg",
+                "venue": "Carole and Barry Kaye Auditorium",
+                "date": "2024-04-27",
+                "time": "19:00",
+                "timezone": "ET",
+                "additionalInfo": "Please note upon checkout, additional convenience & ticket processing fees may apply. A service charge of $2 applies to all in-person and over-the-phone orders. (excluding all FAU Students) ALL SALES ARE FINAL. NO REFUNDS. NO EXCHANGES. NO CASH SALES. Seating after the start of any performance is at the discretion of the House Manager; there is no guarantee that late seating will be permitted.",
+                "location": "FAU Carole and Barry Kaye Performing Arts Auditori Boca Raton, FL 33431"
+            }
+            
+        ]
+    }
+}
